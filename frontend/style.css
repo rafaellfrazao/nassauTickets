@@ -1,0 +1,16 @@
+.appbar {
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: #2196F3;
+    color: white;
+}
+
+.appbar button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
